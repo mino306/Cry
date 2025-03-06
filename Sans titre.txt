@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robots IA - Crypto Placement</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Robots IA - Investissez en crypto avec intelligence</h1>
+            <p>Optimisez vos placements grâce à nos robots IA spécialisés en crypto-monnaies.</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>Notre Technologie</h2>
+            <p>Nos robots IA utilisent des algorithmes avancés pour investir automatiquement dans les crypto-monnaies, garantissant des rendements optimisés.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <ul>
+                <li>Analyse de marché en temps réel</li>
+                <li>Investissements automatisés</li>
+                <li>Rendements optimisés grâce à l'IA</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Robots IA Crypto. Tous droits réservés.</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
